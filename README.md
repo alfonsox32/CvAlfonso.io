@@ -1,3 +1,0 @@
-# CvAlfonso.io
-CV from Alfonso Developer jr FullStack
-Desarrollador jr interesado en el fullstack con las diferentes tecnologias como laraver php javascript typescript jquery etc...
